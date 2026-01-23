@@ -37,7 +37,7 @@ Para otimizar o desempenho acadêmico, as escolas devem priorizar:
 
 ## Visão Geral do Código
 
-O notebook `[Nome_do_Seu_Notebook].ipynb` (sugiro renomeá-lo para algo como `student_performance_analysis.ipynb`) demonstra as seguintes habilidades:
+A análise demonstra as seguintes habilidades:
 
 *   **Manipulação de Dados com Pandas**: Uso eficiente de `pandas` para carregamento (`pd.read_csv`), limpeza (`isna().sum()`, `dropna()`, `astype()`), seleção (`loc`), agregação (`groupby().agg()`) e criação de novas colunas (`apply()`).
 *   **Visualização de Dados com Plotly Express**: Criação de gráficos interativos (`px.histogram`, `px.scatter`) para explorar relações entre variáveis e apresentar insights de forma clara.
